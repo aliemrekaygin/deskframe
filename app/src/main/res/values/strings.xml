@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dijital Çerçeve</string>
+    <string name="welcome_title">Dijital Fotoğraf Çerçeveniz Hazır</string>
+    <string name="welcome_subtitle">Masanda sergilemek istediğin fotoğrafları ekleyerek başla.</string>
+    <string name="btn_select_photos">Fotoğraf Seç / Ekle</string>
+    <string name="btn_select_folder">Klasör Seç</string>
+    <string name="settings_title">Çerçeve Ayarları</string>
+    <string name="interval_title">Geçiş Aralığı</string>
+    <string name="transition_title">Geçiş Efekti</string>
+    <string name="scaling_title">Görüntüleme Modu</string>
+    <string name="shuffle_title">Karışık Oynatma</string>
+    <string name="clock_overlay_title">Saat ve Tarih Göster</string>
+    <string name="dim_mode_title">Gece Karartma Modu</string>
+</resources>

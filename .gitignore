@@ -1,0 +1,24 @@
+# Derleme çıktıları
+build/
+app/build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+
+# Yerel ayarlar ve imzalama anahtarları
+local.properties
+*.jks
+*.keystore
+keystore.properties
+.idea/
+*.iml
+
+# Cihaz ekran görüntüleri kişisel veri içerebilir (fotoğraf, hesap, bildirim)
+screenshot*.png
+screenshot*.jpg
+Screenshot*
+
+# Ortam dosyaları
+.env
+.DS_Store
