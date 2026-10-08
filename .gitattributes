@@ -1,0 +1,11 @@
+# Satır sonlarını otomatik normalize et
+* text=auto
+
+# Kabuk betiği her platformda LF olmalı, .bat CRLF kalmalı
+gradlew text eol=lf
+*.bat text eol=crlf
+
+# İkili dosyalar
+*.jar binary
+*.jpg binary
+*.png binary
